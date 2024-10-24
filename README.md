@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/battleplayer02/](https://github.com/battleplayer02/)
 
-- 📫 How to reach me, drop an email at **hshekhar499@gmail.com**
+- 📫 How to reach me, drop an email at **hshekhar499@gmail.co
 
  <div>
  <img src="https://github-readme-stats.vercel.app/api?username=battleplayer02&show_icons=true" alt="fsiddh">
